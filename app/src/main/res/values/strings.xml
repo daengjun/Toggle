@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="goToggle">토글 바인딩으로 이동</string>
+</resources>
